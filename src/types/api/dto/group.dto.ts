@@ -5,5 +5,5 @@ export class CreateGroupDto {
 }
 
 export class GroupListDto {
-  searchText: string
+  searchText: string;
 }
